@@ -17,7 +17,7 @@
 2. https://medium.com/@basudev_18233/exploiting-sql-injection-at-authorization-token-8764a0dcac1a
 3. https://www.randorisec.fr/crack-linux-firewall/
 4. https://o5wald.github.io/posts/binary_exploitation_basics/
-5. 
+5. https://twitter.com/arekfurt/status/1549647516056043520
 
 
 
