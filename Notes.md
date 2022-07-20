@@ -18,6 +18,9 @@
 3. https://www.randorisec.fr/crack-linux-firewall/
 4. https://o5wald.github.io/posts/binary_exploitation_basics/
 5. https://twitter.com/arekfurt/status/1549647516056043520
+6. https://github.com/hktalent/scan4all
+7. https://www.cobalt.io/blog/attacking-windows-applications-part-1
+8. 
 
 
 
