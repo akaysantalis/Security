@@ -29,6 +29,8 @@ https://gitlab.com/volkis/report-ranger
 https://tech-blog.cymetrics.io/en/posts/huli/erpnext-ssrf-and-xss-to-account-takeover/
 
 
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+
 
 
 
