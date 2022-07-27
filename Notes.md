@@ -33,6 +33,10 @@ https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 
 
 
+https://sl4x0.github.io/Access-Control-Notes
+
+https://sl4x0.github.io/IDOR-Attacks
+
 
 
 
